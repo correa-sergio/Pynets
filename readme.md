@@ -14,12 +14,12 @@ Note: Please don't use this script on servers that you don't have permissions fo
 - Clone the project
 
 ```bash
-git clone https://github.com/correa-sergio/PyNetS
+git clone https://github.com/correa-sergio/Pynets
 ```
 - Go to the project directory
 
 ```bash
-cd PyNetS
+cd Pynets
 ```
 
 ## Install the Requirements
